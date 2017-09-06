@@ -1,2 +1,2 @@
 #ignore files
-php_cs.cache
+.php_cs.cache
